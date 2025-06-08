@@ -11,3 +11,8 @@ int main() {
   printf("\n--- Cidade 1 ---\n");
   printf("Código: %s\nNome %s\nPopulação: %d\nÁrea: %.2f km²\nPIB: %.2f bilhões\nPontos Turísticos: %d\n",
     codigo1, nome1, populacao1, area1, pontos1);
+  printf("Código: %s\nNome %s\nPopulação: %d\nÁrea: %.2f km²\nPIB: %.2f bilhões\nPontos Turísticos: %d\n",
+    codigo2, nome2, populacao2, area2, pontos2);
+
+  return 0;
+}
