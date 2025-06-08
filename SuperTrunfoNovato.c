@@ -7,3 +7,7 @@ int main() {
   int pontos1 = 10, pontos2 = 80;
   float area1 = 280.674, area2 = 1.652.569;
   float pib1 = 22.073.535, 23.604.749;
+
+  printf("\n--- Cidade 1 ---\n");
+  printf("Código: %s\nNome %s\nPopulação: %d\nÁrea: %.2f km²\nPIB: %.2f bilhões\nPontos Turísticos: %d\n",
+    codigo1, nome1, populacao1, area1, pontos1);
